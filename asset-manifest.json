@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-app-nasa-apod/static/css/main.b3c24358.chunk.css",
+    "main.js": "/react-app-nasa-apod/static/js/main.a5683c1a.chunk.js",
+    "main.js.map": "/react-app-nasa-apod/static/js/main.a5683c1a.chunk.js.map",
+    "runtime-main.js": "/react-app-nasa-apod/static/js/runtime-main.dd813e69.js",
+    "runtime-main.js.map": "/react-app-nasa-apod/static/js/runtime-main.dd813e69.js.map",
+    "static/js/2.49bc1d74.chunk.js": "/react-app-nasa-apod/static/js/2.49bc1d74.chunk.js",
+    "static/js/2.49bc1d74.chunk.js.map": "/react-app-nasa-apod/static/js/2.49bc1d74.chunk.js.map",
+    "static/js/3.cdb9fa4a.chunk.js": "/react-app-nasa-apod/static/js/3.cdb9fa4a.chunk.js",
+    "static/js/3.cdb9fa4a.chunk.js.map": "/react-app-nasa-apod/static/js/3.cdb9fa4a.chunk.js.map",
+    "index.html": "/react-app-nasa-apod/index.html",
+    "static/css/main.b3c24358.chunk.css.map": "/react-app-nasa-apod/static/css/main.b3c24358.chunk.css.map",
+    "static/js/2.49bc1d74.chunk.js.LICENSE.txt": "/react-app-nasa-apod/static/js/2.49bc1d74.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd813e69.js",
+    "static/js/2.49bc1d74.chunk.js",
+    "static/css/main.b3c24358.chunk.css",
+    "static/js/main.a5683c1a.chunk.js"
+  ]
+}
